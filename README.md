@@ -3,7 +3,7 @@
 🎓 Estudiante de Ingeniería
 📊 Apasionado por la Ciencia de Datos
 💻 Explorando el poder de los datos para crear soluciones inteligentes
-🚀 Futuro entusiasta del Aprendizaje Automático
+🚀 Entusiasta del Aprendizaje Automático
 
 🧠 Sobre mí
 
