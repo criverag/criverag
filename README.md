@@ -14,7 +14,7 @@ También tengo interés en áreas como:
 * 📊 **Análisis y visualización de datos**
 * 🕸️ **Web Scraping**
 
-## 🚀 Habilidades
+## Habilidades 🧰🛠⚙️
 
 * Lenguajes: Python, R
 * Bases de datos - SQL
