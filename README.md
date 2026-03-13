@@ -11,13 +11,14 @@ También tengo interés en áreas como:
 * 🤖 **Machine Learning**
 * ☁️ **Computación en la nube**
 * 📊 **Análisis y visualización de datos**
-* 📊 **Web Scraping**
+* 🕸️ **Web Scraping**
 
 ## 🚀 Habilidades
 
 * Lenguajes: Python, R
+* Bases de datos - SQL
 * Análisis de datos
 * Desarrollo de software
 * Aprendizaje continuo y trabajo en equipo
 
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arduino,gcp,azure,cpp,debian,docker,github,git,linux&perline=2)](https://skillicons.dev)
