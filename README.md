@@ -1,4 +1,4 @@
-👋 ¡Hola! Bienvenido a mi GitHub 👋
+## 👋 ¡Hola! Bienvenido a mi GitHub 👋
 
 ## 🔭 Sobre mí
 Estudiante de **Ingeniería de Telecomunicaciones**. Actualmente estoy ampliando mis conocimientos en programación, especialmente en lenguajes como **Python**, **R** y **C++**, con el objetivo de aplicarlos en **análisis de datos**, el **desarrollo de software** y la creación de **aplicaciones basadas en datos**.
