@@ -21,4 +21,4 @@ También tengo interés en áreas como:
 * Desarrollo de software
 * Aprendizaje continuo y trabajo en equipo
 
-  [![My Skills](https://skillicons.dev/icons?i=arduino,gcp,azure,cpp,debian,docker,github,git,linux,mysql,md,py,r,qt,raspberry&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=arduino,gcp,azure,cpp,debian,docker,github,git,linux,mysql,md,py,r,qt,raspberry,ubuntu&perline=2)](https://skillicons.dev)
