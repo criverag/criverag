@@ -1,48 +1,23 @@
-👨‍💻 Cristian Rivera
+👋 ¡Hola! Bienvenido a mi GitHub 👋
 
-🎓 Estudiante de Ingeniería
-📊 Apasionado por la Ciencia de Datos
-💻 Explorando el poder de los datos para crear soluciones inteligentes
-🚀 Entusiasta del Aprendizaje Automático
+## 🔭 Sobre mí
+Estudiante de **Ingeniería de Telecomunicaciones**. Actualmente estoy ampliando mis conocimientos en programación, especialmente en lenguajes como **Python**, **R** y **C++**, con el objetivo de aplicarlos en **análisis de datos**, el **desarrollo de software** y la creación de **aplicaciones basadas en datos**.
 
-🧠 Sobre mí
+Me interesa explorar cómo los datos pueden utilizarse para resolver problemas reales y apoyar la toma de decisiones mediante herramientas tecnológicas.
 
-Soy un estudiante que cree que los datos cuentan historias… solo hay que saber escucharlas 👀📈
+También tengo interés en áreas como:
 
-Me apasiona descubrir patrones ocultos, analizar información y transformar datos crudos en conocimiento útil. Disfruto el proceso completo: desde recolectar datos hasta visualizarlos y prepararlos para modelos de aprendizaje automático.
+* 🌐 **Internet de las Cosas (IoT)**
+* 🤖 **Machine Learning**
+* ☁️ **Computación en la nube**
+* 📊 **Análisis y visualización de datos**
+* 📊 **Web Scraping**
 
-Cada dataset es un rompecabezas 🧩 y cada análisis una oportunidad para aprender algo nuevo.
+## 🚀 Habilidades
 
-🛠️ Habilidades y Tecnologías
+* Lenguajes: Python, R
+* Análisis de datos
+* Desarrollo de software
+* Aprendizaje continuo y trabajo en equipo
 
-📌 Lenguajes:
-Python 🐍 | SQL
-
-📌 Ciencia de Datos:
-Pandas | NumPy | Matplotlib | Seaborn
-
-📌 Web Scraping:
-BeautifulSoup | Scrapy | Requests
-
-📌 Estadística Descriptiva:
-✔️ Medidas de tendencia central
-✔️ Medidas de dispersión
-✔️ Análisis exploratorio de datos (EDA)
-✔️ Visualización de datos
-
-📌 Herramientas:
-Jupyter Notebook | Git | GitHub | Linux
-
-📈 Actualmente...
-
-🔍 Recolectando datos mediante web scraping
-📊 Profundizando en estadística descriptiva y análisis exploratorio
-🤖 Preparándome para dar el salto al Aprendizaje Automático
-📚 Estudiando fundamentos matemáticos: álgebra lineal y probabilidad
-
-🎯 Objetivo
-
-Construir una base sólida en análisis de datos para adentrarme en el mundo del Machine Learning y desarrollar modelos capaces de predecir, clasificar y generar valor real a partir de la información.
-
-Porque los datos no son solo números…
-son decisiones, patrones y oportunidades esperando ser descubiertas 💡✨
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
