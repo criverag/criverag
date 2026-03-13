@@ -1,9 +1,9 @@
 ## 👋 ¡Hola! Bienvenido a mi GitHub 👋
 
 ## 🔭 Sobre mí
-Estudiante de **Ingeniería de Telecomunicaciones**. Actualmente estoy ampliando mis conocimientos en programación, especialmente en lenguajes como **Python**, **R** y **C++**, con el objetivo de aplicarlos en **análisis de datos**, el **desarrollo de software** y la creación de **aplicaciones basadas en datos**.
+Estudiante de **Ingeniería de Telecomunicaciones**. Actualmente estoy ampliando mis conocimientos en programación, especialmente en lenguajes como **Python**, **R** y **C++**, con el objetivo de aplicarlos en **análisis de datos** y el **desarrollo de software**.
 
-Me interesa explorar cómo los datos pueden utilizarse para resolver problemas reales y apoyar la toma de decisiones mediante herramientas tecnológicas.
+Los datos está en todas partes. Busco aprender a través de la exploración de ellos y de su aplicación en la resolución de problemas apoyado además, en diversas herramientas tecnológicas.
 
 También tengo interés en áreas como:
 
